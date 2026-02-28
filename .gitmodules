@@ -1,3 +1,6 @@
 [submodule "Loom_Bootloader"]
 	path = bootloader
 	url = git@github.com:zlamb1/Loom_Bootloader.git
+[submodule "Loom_Kernel"]
+	path = kernel
+	url = git@github.com:zlamb1/Loom_Kernel.git
